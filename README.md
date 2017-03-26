@@ -1,5 +1,3 @@
 # learnRebase
 
-## First change from Kevin Zhao trying again
-
-### Second change from Github test user
+## We only do git push with kevin user.email and user.name
